@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.booking.com/",
+  "viewportHeight": 900,
+  "viewportWidth": 1400,
+  "defaultCommandTimeout": 90000,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false
+}
